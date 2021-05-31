@@ -1,5 +1,5 @@
 // Copyright 2021 Atomrigs Lab Inc.
-// This library is part of dekey, blockchain wallet software based on secure multi-party computation
+// This library is part of Dekey, blockchain wallet software based on secure multi-party computation
 //
 // The library is free software: you can redistribute it and/or modify
 // it under the terms of the GNU Lesser General Public License as published by
